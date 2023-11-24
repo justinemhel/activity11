@@ -1,0 +1,62 @@
+header{
+    padding: 30px;
+    justify-content: space-around;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: black;
+    border: 5px solid gold;
+}
+h1{
+    padding: 5px;
+    color: white;
+}
+.mm{
+    display: flex;
+    flex-direction: row;
+    padding: 5px;
+}
+a{
+    padding-left: 30px;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 10px;
+    color: white;
+    
+}
+.flex{
+    background-color: black;
+    padding: 30px;
+}
+h2{
+    padding: 5px;
+    color: white;
+    text-align: center;
+}
+.flex-con{
+    background-color: black;
+    border-top: 5px solid gold;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+.hi{
+    color: white;
+}
+.item1{
+    flex-grow: 3;
+}
+.item2{
+    flex-grow: 2;
+}
+.item3{
+    flex-grow: 2;
+
+
+}
+.flex-item{
+    background-color: white;
+    padding: 5px;
+    margin: 10px;
+
+}
